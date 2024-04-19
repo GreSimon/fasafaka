@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Informatik
 - 💞️ I’m looking to collaborate on Informatik  
 - 📫 How to reach me Teams (beste)
-- 😄 Pronouns: nick/her
+- 😄 Pronouns:
 - ⚡ Fun fact: I love Informatik
 
 <!---
