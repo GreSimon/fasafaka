@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fasafaka
+- 👋 Hi, I’m @SimonGre
 - 👀 I’m interested in Informatik
 - 🌱 I’m currently learning Informatik
 - 💞️ I’m looking to collaborate on Informatik  
